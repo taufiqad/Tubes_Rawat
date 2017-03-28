@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1490703914 source:c:\users\x550vx\documents\tubes polos\child.cpp
+	"child.h"
+
+1490715057 c:\users\x550vx\documents\tubes polos\child.h
+	<iostream>
+	<string>
+
+1490715320 source:c:\users\x550vx\documents\tubes polos\main.cpp
+	<iostream>
+	<stdlib.h>
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490707842 source:c:\users\x550vx\documents\tubes polos\parent.cpp
+	"parent.h"
+
+1490715148 c:\users\x550vx\documents\tubes polos\parent.h
+	<iostream>
+	<string>
+
+1490716305 c:\users\x550vx\documents\tubes polos\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1490707607 source:c:\users\x550vx\documents\tubes polos\relasi.cpp
+	"relasi.h"
+	"parent.h"
+
+1490718337 source:d:\kuliah\tubes asd\tubes polos\child.cpp
+	"child.h"
+
+1490715057 d:\kuliah\tubes asd\tubes polos\child.h
+	<iostream>
+	<string>
+
+1490715320 source:d:\kuliah\tubes asd\tubes polos\main.cpp
+	<iostream>
+	<stdlib.h>
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490717675 d:\kuliah\tubes asd\tubes polos\parent.h
+	<iostream>
+	<string>
+
+1490716305 d:\kuliah\tubes asd\tubes polos\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1490717691 source:d:\kuliah\tubes asd\tubes polos\parent.cpp
+	"parent.h"
+
+1490717942 source:d:\kuliah\tubes asd\tubes polos\relasi.cpp
+	"relasi.h"
+	"parent.h"
+
